@@ -1,7 +1,7 @@
-name: "Liming-website"
+name: "Hengyu-website"
 output_dir: "."
 navbar:
-  title: "Liming's Website"
+  title: "Hengyu's Website"
   left:
     - text: "Home"
       href: index.html
